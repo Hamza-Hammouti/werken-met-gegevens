@@ -7,6 +7,4 @@ gameseataantal = 27
 
 totaalprijs = toegangsticket * toegangsticketaantal + ((totaalaantalminuten * gameseat) * 3)
 
-print(totaalprijs)
-
-print("Dit geweldige dagje-uit met " + str(toegangsticketaantal) + " mensen in de Speelhal met " + str(totaalaantalminuten) + " minuten VR kost je maar " + str(totaalprijs) + " euro.")
+print("Dit geweldige dagje-uit met " + str(toegangsticketaantal) + " mensen in de Speelhal met " + str(totaalaantalminuten) + " minuten VR kost je maar " + str(totaalprijs)
